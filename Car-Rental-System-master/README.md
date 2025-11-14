@@ -12,7 +12,7 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 
 ## Getting Started
 
-1. **Clone the Repo**: `git clone 
+1. **Clone the Repo**: https://github.com/yeetaryan/JAVA-PROJECT
 
 ## Contributions Welcome! 🎉
 
